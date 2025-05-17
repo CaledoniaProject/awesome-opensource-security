@@ -1,0 +1,26 @@
+[16:13:43] [WARN] [Version:check:41] please use java 8 version
+[16:13:48] [INFO] [Application:main:88] setup look and feel success
+[16:13:52] [INFO] [Version:check:32] safe - java version is higher than 191
+[16:13:52] [INFO] [Application:main:88] setup look and feel success
+[16:14:25] [INFO] [Version:check:32] safe - java version is higher than 191
+[16:14:29] [INFO] [Version:check:32] safe - java version is higher than 191
+[16:14:36] [INFO] [Version:check:32] safe - java version is higher than 191
+[16:14:37] [INFO] [Application:main:88] setup look and feel success
+[16:14:37] [INFO] [Client:run:66] run jar-analyzer gui
+[16:14:37] [INFO] [LoggingStream:println:20] set y4-log io-streams
+[16:14:37] [INFO] [LoggingStream:println:20] set y4-log err-streams
+[16:14:37] [INFO] [Application:main:173] set server port 10032
+[16:14:37] [INFO] [LoggingStream:println:20] API SERVER: http://127.0.0.1:10032
+[16:14:37] [INFO] [MainForm:<init>:666] init fake instance
+[16:14:37] [INFO] [MainForm:<init>:671] init main form
+[16:14:37] [INFO] [MainForm:<init>:724] init main form success
+[16:14:37] [INFO] [DropHelper:setDrop:15] set drop target success
+[16:14:37] [INFO] [SCAVulDB:getCVEMap:40] cve data: 7
+[16:14:37] [INFO] [SCAParser:getApacheLog4j2Rules:38] apache log4j2 sca rules: 155
+[16:14:37] [INFO] [SCAParser:getFastjsonRules:64] fastjson sca rules: 162
+[16:14:37] [INFO] [SqlSessionFactoryUtil:<clinit>:20] init mybatis factory
+[16:14:38] [INFO] [PrintSqlInterceptor:<clinit>:46] init sql interceptor
+[16:14:38] [INFO] [SqlSessionFactoryUtil:<clinit>:28] init mybatis factory finish
+[16:14:50] [INFO] [MenuUtil:lambda$static$0:48] use chinese language
+[16:24:19] [INFO] [ELForm:lambda$new$2:79] start el process
+[16:24:19] [WARN] [ELForm:lambda$new$2:83] engine is null
