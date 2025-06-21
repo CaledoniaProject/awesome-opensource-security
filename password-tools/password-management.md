@@ -1,0 +1,2 @@
+* https://github.com/bitwarden
+* [dani-garcia/vaultwarden - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs - 43.8K star](https://github.com/dani-garcia/vaultwarden)
