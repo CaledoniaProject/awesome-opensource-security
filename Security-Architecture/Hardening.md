@@ -37,7 +37,7 @@ Linux
 * [CISOfy/lynis - Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems](https://github.com/CISOfy/lynis)
 * [dev-sec/ansible-os-hardening - This Ansible role provides numerous security-related configurations, providing all-round base protection](https://github.com/dev-sec/ansible-os-hardening)
 * [uber/pam-ussh - uber's ssh certificate pam module](https://github.com/uber/pam-ussh)
-* [yandex/gixy - Nginx configuration static analyzer](https://github.com/yandex/gixy)
+* [dvershinin/gixy - Nginx configuration static analyzer](https://github.com/dvershinin/gixy)
 * [herecura.au: Kconfig hardening tests - 实际生产环境不可能用的](https://blog.herecura.eu/blog/2020-05-30-kconfig-hardening-tests/)
 * [konstruktoid/hardening - Hardening Ubuntu. Systemd edition](https://github.com/konstruktoid/hardening)
 
