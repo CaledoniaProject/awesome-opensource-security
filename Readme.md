@@ -1,3 +1,8 @@
+# [!IMPORTANT] This repository is no longer maintained.
+
+All tools have been migrated to the new online directory: 👉 [https://s.ahawk.dev/tools](https://s.ahawk.dev/tools). <br/>
+Please visit the site for the latest additions and updates.
+
 # Open source security tools
 
 A list of interesting open-source security tools, mostly reviewed and commented by me. The repo updates on a daily basis or whenever something interest is out.
